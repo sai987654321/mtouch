@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import ProductDetailPage from "@/components/ProductDetailPage";
 import React from "react";
 
